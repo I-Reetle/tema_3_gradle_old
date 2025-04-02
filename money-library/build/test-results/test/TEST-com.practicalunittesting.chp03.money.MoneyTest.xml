@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.practicalunittesting.chp03.money.MoneyTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-03-31T14:44:12" hostname="DESKTOP-33OUKHV" time="0.013">
+  <properties/>
+  <testcase name="constructorShouldSetAmountAndCurrency()" classname="com.practicalunittesting.chp03.money.MoneyTest" time="0.001"/>
+  <testcase name="[1] MyObject{amount=4, currency=USD}, MyObject{amount=3, currency=USD}, 7" classname="com.practicalunittesting.chp03.money.MoneyTest" time="0.002"/>
+  <testcase name="[2] MyObject{amount=1, currency=EUR}, MyObject{amount=4, currency=EUR}, 5" classname="com.practicalunittesting.chp03.money.MoneyTest" time="0.0"/>
+  <testcase name="[3] MyObject{amount=1234, currency=CHF}, MyObject{amount=234, currency=CHF}, 1468" classname="com.practicalunittesting.chp03.money.MoneyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

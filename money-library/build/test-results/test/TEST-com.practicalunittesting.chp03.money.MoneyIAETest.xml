@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.practicalunittesting.chp03.money.MoneyIAETest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-31T14:44:12" hostname="DESKTOP-33OUKHV" time="0.055">
+  <properties/>
+  <testcase name="[1] null" classname="com.practicalunittesting.chp03.money.MoneyIAETest" time="0.043"/>
+  <testcase name="[2] " classname="com.practicalunittesting.chp03.money.MoneyIAETest" time="0.001"/>
+  <testcase name="[1] -12387" classname="com.practicalunittesting.chp03.money.MoneyIAETest" time="0.003"/>
+  <testcase name="[2] -5" classname="com.practicalunittesting.chp03.money.MoneyIAETest" time="0.001"/>
+  <testcase name="[3] -1" classname="com.practicalunittesting.chp03.money.MoneyIAETest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
